@@ -1,2 +1,1 @@
-# Snake-Game.github.io
-this is a html snake game
+Wanna play go to https://wakandaf.github.io/Snake/
